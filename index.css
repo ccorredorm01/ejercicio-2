@@ -14,6 +14,8 @@ body {margin: 5em;
     font-size: 18px;
 }
 
+div {text-align: center;}
+
 a:link { color:green;}
 
 a:visited { color: red;}

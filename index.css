@@ -1,12 +1,24 @@
 /*index.css*/
-html {background-color:lavender;}
+html {background-color:aliceblue;}
 
-h1 {text-align: center; 
-    color:darkslateblue;
+#titulo { 
+    background-color:lightcoral;
+    color:lavenderblush;
+    height: 60px;
+    font-size: 45px;
 }
 
-h2,h3 {color:darkmagenta; 
+#pie { 
+    background-color:lightcoral;
+    color: lavenderblush;
+    height:30px;
+    text-align:20px;
+  }
+
+h1,h2 {color:darkslateblue; 
 }
+
+h3 {color:slateblue}
 
 body {margin: 5em;
     text-align: justify;
@@ -15,7 +27,7 @@ body {margin: 5em;
 }
 
 table {border-collapse: collapse;
-    background-color: lightblue;
+    background-color: lavenderblush;
 
 }
 div {text-align: center;}

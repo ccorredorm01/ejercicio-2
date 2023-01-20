@@ -1,41 +1,59 @@
 /*index.css*/
-html {background-color:aliceblue;}
+html {
+    background-color: aliceblue;
+}
 
-#titulo { 
-    background-color:lightcoral;
-    color:lavenderblush;
-    height: 60px;
+#titulo {
+    background-color: lightcoral;
+    color: lavenderblush;
+    height: 70px;
     font-size: 45px;
 }
 
-#pie { 
-    background-color:lightcoral;
+#pie {
+    background-color: lightcoral;
     color: lavenderblush;
-    height:30px;
-    text-align:20px;
-  }
-
-h1,h2 {color:darkslateblue; 
+    height: 30px;
+    text-align: 20px;
 }
 
-h3 {color:slateblue}
+h1,
+h2 {
+    color: darkslateblue;
+}
 
-body {margin: 5em;
+h3 {
+    color: slateblue
+}
+
+body {
+    margin: 5em;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
 
-table {border-collapse: collapse;
+table {
+    border-collapse: collapse;
     background-color: lavenderblush;
-
 }
-div {text-align: center;}
 
-a:link { color:green;}
+div {
+    text-align: center;
+}
 
-a:visited { color: red;}
+a:link {
+    color: green;
+}
 
-a:hover { color:blue;}
+a:visited {
+    color: red;
+}
 
-a:active { color:deeppink;}
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: deeppink;
+}
